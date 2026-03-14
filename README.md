@@ -1,4 +1,4 @@
-#Hi, I'm Renee 👋
+# Hi, I'm Renee 👋
 
 🎓 Computer Science Engineering Student
 💻 Learning Python, Data Structures & Algorithms
@@ -6,7 +6,7 @@
 
 ---
 
-🌱 ##Currently Learning
+🌱 ## Currently Learning
 
 - Python Programming
 - Data Structures & Algorithms
@@ -15,7 +15,7 @@
 
 ---
 
-🛠️ ##Skills
+🛠️ ## Skills
 
 - Programming: Python, C, Java (basic)
 - Web: HTML, CSS, JavaScript
