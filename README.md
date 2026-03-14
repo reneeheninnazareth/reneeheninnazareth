@@ -6,7 +6,7 @@
 
 ---
 
-🌱 ## Currently Learning
+  ## 🌱Current Learning
 
 - Python Programming
 - Data Structures & Algorithms
@@ -15,7 +15,7 @@
 
 ---
 
-🛠️ ## Skills
+ ## 🛠️Skills
 
 - Programming: Python, C, Java (basic)
 - Web: HTML, CSS, JavaScript
