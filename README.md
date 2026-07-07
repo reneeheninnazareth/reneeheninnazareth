@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Java, Data Structures & Algorithms, Full-Stack Web Development, AI, and Computer Science Fundamentals.
 
-💬 Ask me about Java, Python, HTML, CSS, JavaScript, Git, GitHub, and Data Structures & Algorithms.
+💬 Ask me about Java, Python, HTML, CSS, JavaScript, Git, GitHub, and DSA.
 
 ⚡ Fun fact: I enjoy solving coding challenges and building real-world projects.
 
@@ -15,7 +15,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renee-henin-a6a628330/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reneenazareth25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reneenazareth25@gmail.com)
 
 ---
 
@@ -43,3 +43,5 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=reneeheninnazareth&color=0e75b6)
+
+
